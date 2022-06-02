@@ -1,0 +1,26 @@
+{
+  "name": "star-wars-character-quotes-app",
+  "version": "1.0.0",
+  "description": "Star Wars Character Quote App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sam-Kohl/Star-Wars-Character-Quotes-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sam-Kohl/Star-Wars-Character-Quotes-App/issues"
+  },
+  "homepage": "https://github.com/Sam-Kohl/Star-Wars-Character-Quotes-App#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
